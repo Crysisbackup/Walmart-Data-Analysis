@@ -1,5 +1,5 @@
 # Walmart-Data-Analysis
-EDA on the given walmart dataset from kaggle 
+Data analysis on the given walmart dataset from kaggle 
  Walmart Sales Data Analysis
 
 ## About
